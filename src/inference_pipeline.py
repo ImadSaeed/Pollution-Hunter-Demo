@@ -1,4 +1,4 @@
-# src/inference_pipeline.py - Production inference for Pollution Hunter
+# inference_pipeline.py - Production inference for Pollution Hunter
 # Works in both local and cloud environments (with src/ folder structure)
 
 import numpy as np
